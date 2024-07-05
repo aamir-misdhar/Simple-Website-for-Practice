@@ -1,0 +1,178 @@
+body{
+    background-image: url("../images/bg_image.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#header{
+    background-image:linear-gradient(to right,rgb(43, 71, 138),rgb(107, 157, 203));
+    width: 100%;
+    height:5%;
+    color: white;
+}
+
+#header_heading{
+    background-color: rgb(251, 251, 251);
+    width: 100%;
+    height: 10%;
+}
+
+#header_shedow{
+    background-image: linear-gradient(to bottom,rgb(186, 185, 185),rgb(255, 255, 255));
+    width: 100%;
+    height: 1%;
+}
+
+#hedding{
+    color: rgb(0, 174, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tabs_design{
+    background-color: rgb(246, 246, 246);
+    width: 100%;
+    height:max-content;
+    padding-bottom: 3px;
+}
+
+#tab_headding{
+    color: rgb(69, 74, 74);
+    font-family: Arial;
+    padding: 3%;
+}
+
+.tab_btn{
+    color: rgb(136, 137, 137);
+    width: 120%;
+    height: 95%;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+
+#slc_tab_btn{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to bottom,rgb(0, 174, 255),rgb(40, 135, 182));
+    width: fit-content;
+    height: 95%;
+    border: 1;
+    border-radius: 25px;
+    border-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+
+/*body Style Start*/
+
+#main_hedding_one{
+    color: rgb(96, 127, 155);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+}
+
+#main_hedding_two{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+#main_hedding_three{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+
+
+
+
+#content_box{
+    background-color: beige;
+    width: 100%;
+    height: max-content;
+    border-radius: 15px;
+    padding-bottom: 2%;
+}
+
+
+
+
+/* ====== Category is Starting ====== */
+#Category_heading{
+    color: rgb(137, 137, 137);
+    font-family: Bahnschrift;
+}
+
+#Category_bg{
+    background-color: rgb(228, 226, 226);
+    width: 100%;
+    height:fit-content;
+}
+
+#Category_btn{
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 15px;
+    padding: 2%;
+}
+
+
+#Category_title{
+    color: rgb(119, 119, 119);
+    font-family: Bahnschrift;
+}
+
+#Category_Descri{
+    color: rgb(119, 119, 119);
+    font-family: Bahnschrift;
+}
+
+
+
+
+
+/*Footer Design Start */
+#footer{
+    background-color: rgb(55, 55, 55);
+    width: 100%;
+    height: auto;
+}
+
+.footer_hedding{
+    color: rgb(232, 232, 232);
+    
+    font-family: Unispace;
+    font-size: large;
+}
+
+#footer_logo{
+    color: aliceblue;
+
+    border: 3px solid;
+    width: fit-content;
+    height: auto;
+
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#footer_subsites{
+    color: white;
+    font-size: small;
+    font-family: Verdana;
+}
+
+#footer_contectus{
+    color: white;
+    font-size: small;
+    font-family: Verdana;
+}
